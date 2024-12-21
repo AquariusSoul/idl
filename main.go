@@ -7,4 +7,6 @@ func main() {
 	fmt.Println("fork pr 测试2")
 	fmt.Println("fork pr 测试3")
 	fmt.Println("fork pr 测试4")
+
+	fmt.Println("测试一起提交")
 }
